@@ -1,1 +1,1 @@
-Hi this is test file to test commit 1 of GIT 
+Hi this is test file to test commit 2 of GIT 
