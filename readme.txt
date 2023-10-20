@@ -1,1 +1,1 @@
-Hi this is file for checking git commit 1 file 1
+Hi this is file for checking git commit 2 file 1
